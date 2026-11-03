@@ -187,7 +187,7 @@ End with 3 lines: the link, the passcode, the repo. Nothing else.
 To make one, add your notes or files to the chat, then:
 
 ```
-Make an HTML page about [YOUR TOPIC] for [WHO WILL READ IT]. Follow github.com/rubenhassid1/grenade
+Make an HTML page about [YOUR TOPIC] for [WHO WILL READ IT]. Follow github.com/malletlucien5-ship-it/grenade
 ```
 
 Say "HTML page", or Claude may turn it into a plain doc.
@@ -195,13 +195,13 @@ Say "HTML page", or Claude may turn it into a plain doc.
 To fix one, add the page to the chat, then:
 
 ```
-Fix this artifact. Follow github.com/rubenhassid1/grenade
+Fix this artifact. Follow github.com/malletlucien5-ship-it/grenade
 ```
 
 For the web version (a website with charts that react, numbers that count up and a passcode), open Claude Code in an empty folder, add your notes, then:
 
 ```
-Make a website about [YOUR TOPIC] for [WHO WILL READ IT]. Follow github.com/rubenhassid1/grenade, the web version.
+Make a website about [YOUR TOPIC] for [WHO WILL READ IT]. Follow github.com/malletlucien5-ship-it/grenade, the web version.
 ```
 
 You need free GitHub and Vercel accounts. Claude opens the sign-in for you.
